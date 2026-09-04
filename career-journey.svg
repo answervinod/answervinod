@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00FF9C"/><stop offset="1" stop-color="#36D9FF"/></linearGradient></defs>
+<rect width="1400" height="430" rx="22" fill="#050607" stroke="#1F2937"/>
+<text x="60" y="65" fill="#00FF9C" font-family="monospace" font-size="13" letter-spacing="4">CAREER JOURNEY / 2010 → NOW</text>
+<line x1="100" y1="190" x2="1300" y2="190" stroke="#26323A" stroke-width="3"/>
+<line x1="100" y1="190" x2="1300" y2="190" stroke="url(#g)" stroke-width="2"/>
+<g font-family="Arial, sans-serif">
+<circle cx="130" cy="190" r="11" fill="#050607" stroke="#00FF9C" stroke-width="3"/>
+<text x="100" y="150" fill="#F4F4F5" font-size="19" font-weight="700">IBM / Virgin Media</text>
+<text x="100" y="220" fill="#A1A1AA" font-size="15">2010 — 2012</text>
+<text x="100" y="250" fill="#71717A" font-size="13">Technical Support</text>
+
+<circle cx="360" cy="190" r="11" fill="#050607" stroke="#00FF9C" stroke-width="3"/>
+<text x="330" y="150" fill="#F4F4F5" font-size="19" font-weight="700">AT&amp;T</text>
+<text x="330" y="220" fill="#A1A1AA" font-size="15">2012 — 2015</text>
+<text x="330" y="250" fill="#71717A" font-size="13">DSL S.M.E.</text>
+
+<circle cx="590" cy="190" r="11" fill="#050607" stroke="#00FF9C" stroke-width="3"/>
+<text x="560" y="150" fill="#F4F4F5" font-size="19" font-weight="700">Convergys</text>
+<text x="560" y="220" fill="#A1A1AA" font-size="15">2015 — 2017</text>
+<text x="560" y="250" fill="#71717A" font-size="13">WFM Analyst</text>
+
+<circle cx="820" cy="190" r="11" fill="#050607" stroke="#00FF9C" stroke-width="3"/>
+<text x="790" y="150" fill="#F4F4F5" font-size="19" font-weight="700">Accenture</text>
+<text x="790" y="220" fill="#A1A1AA" font-size="15">2017 — 2020</text>
+<text x="790" y="250" fill="#71717A" font-size="13">Workforce Services Analyst</text>
+
+<circle cx="1050" cy="190" r="11" fill="#050607" stroke="#00FF9C" stroke-width="3"/>
+<text x="1020" y="150" fill="#F4F4F5" font-size="19" font-weight="700">Cypher Blockchain</text>
+<text x="1020" y="220" fill="#A1A1AA" font-size="15">2020 — 2025</text>
+<text x="1020" y="250" fill="#71717A" font-size="13">Founder / Lead</text>
+
+<circle cx="1270" cy="190" r="14" fill="#00FF9C"/>
+<circle cx="1270" cy="190" r="5" fill="#050607"/>
+<text x="1195" y="150" fill="#F4F4F5" font-size="19" font-weight="700">Now</text>
+<text x="1195" y="220" fill="#A1A1AA" font-size="15">2024 — Present</text>
+<text x="1195" y="250" fill="#71717A" font-size="13">DeDaS · RESET · AI / Web3</text>
+</g>
+<text x="60" y="345" fill="#71717A" font-family="monospace" font-size="13">THE TRAJECTORY</text>
+<text x="60" y="378" fill="#E4E4E7" font-family="Arial, sans-serif" font-size="17">Support engineering → specialist operations → enterprise systems → founder → full-stack / AI / Web3 product builder</text>
+</svg>

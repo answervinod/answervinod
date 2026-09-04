@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="500" viewBox="0 0 1400 500">
+<defs>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#00FF9C"/><stop offset="1" stop-color="#36D9FF"/></linearGradient>
+  <radialGradient id="a"><stop stop-color="#00FF9C" stop-opacity=".16"/><stop offset="1" stop-color="#00FF9C" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1400" height="500" rx="28" fill="#030506"/>
+<rect width="1400" height="500" rx="28" fill="url(#grid)"/>
+<circle cx="1180" cy="90" r="380" fill="url(#a)"/>
+<circle cx="170" cy="480" r="300" fill="url(#a)" opacity=".45"/>
+<path d="M0 420 C190 365 310 465 510 405 S850 350 1050 415 S1260 455 1400 380" fill="none" stroke="url(#accent)" stroke-opacity=".24" stroke-width="2"/>
+<path d="M1030 0v500M1080 0v500M1130 0v500M1180 0v500M1230 0v500M1280 0v500M1330 0v500" stroke="#00FF9C" stroke-opacity=".045"/>
+<text x="82" y="92" fill="#00FF9C" font-family="monospace" font-size="15" letter-spacing="5">VINOD KUMAR  /  ENGINEERING PROFILE</text>
+<text x="82" y="190" fill="#F5F7FA" font-family="Arial, sans-serif" font-size="68" font-weight="700">Engineering across</text>
+<text x="82" y="270" fill="url(#accent)" font-family="Arial, sans-serif" font-size="68" font-weight="700">the entire stack.</text>
+<text x="86" y="323" fill="#A1A1AA" font-family="monospace" font-size="18">FULL-STACK  ·  AI  ·  WEB3  ·  DECENTRALIZED SYSTEMS</text>
+<text x="86" y="390" fill="#E4E4E7" font-family="Arial, sans-serif" font-size="18">15+ years in technology • from support engineering to systems &amp; product leadership</text>
+<circle cx="1208" cy="235" r="92" fill="#060A0B" stroke="#00FF9C" stroke-opacity=".38"/>
+<circle cx="1208" cy="235" r="62" fill="none" stroke="url(#accent)" stroke-width="2"/>
+<circle cx="1208" cy="235" r="12" fill="#00FF9C"/>
+<circle cx="1158" cy="235" r="6" fill="#36D9FF"/>
+<circle cx="1258" cy="235" r="6" fill="#36D9FF"/>
+<path d="M1164 235h32M1220 235h32M1208 173v50M1208 247v50" stroke="#7DD3FC" stroke-opacity=".7" stroke-width="2"/>
+<text x="1085" y="365" fill="#71717A" font-family="monospace" font-size="11" letter-spacing="2">BUILD / SHIP / ITERATE</text>
+<text x="86" y="455" fill="#5EEAD4" font-family="monospace" font-size="12">SYSTEM STATUS  ●  ONLINE</text>
+</svg>
