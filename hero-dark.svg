@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#00FF9C"/><stop offset="1" stop-color="#00D9FF"/>
+  </linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#00FF9C" stop-opacity=".18"/><stop offset="1" stop-color="#00FF9C" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".055"/>
+  </pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="#030506"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1000" cy="80" r="280" fill="url(#glow)"/>
+<circle cx="110" cy="310" r="230" fill="url(#glow)" opacity=".45"/>
+<path d="M0 312 C180 270 260 340 430 292 S720 252 900 300 S1080 330 1200 270" fill="none" stroke="url(#g)" stroke-opacity=".35" stroke-width="2"/>
+<path d="M0 314 C180 272 260 342 430 294 S720 254 900 302 S1080 332 1200 272" fill="none" stroke="#00FF9C" stroke-opacity=".10" stroke-width="10"/>
+<text x="72" y="92" fill="#00FF9C" font-family="monospace" font-size="16" letter-spacing="4">VINOD KUMAR / ENGINEERING PROFILE</text>
+<text x="72" y="166" fill="#F5F7FA" font-family="Arial, sans-serif" font-size="58" font-weight="700">Build systems.</text>
+<text x="72" y="228" fill="#F5F7FA" font-family="Arial, sans-serif" font-size="58" font-weight="700">Ship products.</text>
+<text x="74" y="276" fill="#8B949E" font-family="monospace" font-size="18">FULL-STACK  •  AI  •  WEB3  •  PRODUCT ENGINEERING</text>
+<rect x="1008" y="126" width="108" height="108" rx="54" fill="#070B0D" stroke="#00FF9C" stroke-opacity=".55"/>
+<circle cx="1062" cy="180" r="34" fill="none" stroke="url(#g)" stroke-width="3"/>
+<path d="M1046 180h32M1062 164v32" stroke="#F5F7FA" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1062" cy="180" r="4" fill="#00FF9C"/>
+<text x="72" y="328" fill="#5EEAD4" font-family="monospace" font-size="12">STATUS: ONLINE  //  BUILDING  //  ITERATING</text>
+</svg>
